@@ -22,6 +22,7 @@ int main() {
 					// using thie exact Syntax. 
 	
 	myPtr = NULL;   // This is just to make sure that our pointer doesn't point to anything. 
-					// as the memory location it used to point to has just been deallocated. 
+					// as the pointer used to point to a location that has just been deallocated. 
+
 	return 0; 
-} 
+}
